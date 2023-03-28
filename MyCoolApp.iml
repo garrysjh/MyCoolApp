@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Spring Server/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Spring Server/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/Spring Server/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/Spring Server/target" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+  </component>
+</module>
